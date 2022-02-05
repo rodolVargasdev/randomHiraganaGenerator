@@ -1,2 +1,2 @@
 # randomHiraganaGenerator
-A random hiragana characters generator
+A random hiragana characters generator test
